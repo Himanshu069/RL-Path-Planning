@@ -1,0 +1,3 @@
+WIDTH, HEIGHT = 50, 35
+START = (6, 6)
+GOAL = (28, 44)
